@@ -32,4 +32,8 @@ Projenin amacı mağaza müdürlerinin ve kasa görevlilerinin mağazayı etkin 
 <a href="https://github.com/ElifKirazci/MagazaYonetimOtomasyonu/blob/master/ekrangoruntusu/Kasiyer%20%C3%9Cr%C3%BCn%20Getirme.PNG" target="_blank">
 <img src="https://github.com/ElifKirazci/MagazaYonetimOtomasyonu/blob/master/ekrangoruntusu/Kasiyer%20%C3%9Cr%C3%BCn%20Getirme.PNG" width="200" style="max-width:100%;"></a>
   
+  <p>
+<a href="https://github.com/ElifKirazci/MagazaYonetimOtomasyonu/blob/master/ekrangoruntusu/Kasiyer%20Yanl%C4%B1%C5%9F%20Bakod%20Girme.PNG" target="_blank">
+<img src="https://github.com/ElifKirazci/MagazaYonetimOtomasyonu/blob/master/ekrangoruntusu/Kasiyer%20Yanl%C4%B1%C5%9F%20Bakod%20Girme.PNG" width="200" style="max-width:100%;"></a>
+  
  
